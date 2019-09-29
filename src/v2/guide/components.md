@@ -136,7 +136,7 @@ Vue.component('my-component-name', {
 
 Component đăng kí ở cấp toàn cục có thể được dùng trong template của bất kì đối tượng Vue gốc (`new Vue`) nào được tạo ra sau đó -- và trong tất cả các component con trên cây component của đối tượng đó.
 
-Hiện giờ thì đó là tất cả những gì bạn cần biết về đăng kí component, nhưng sau khi đọc xong trang này và hiểu thêm về component, bạn nên quay lại và đọc bản hướng dẫn đầy đủ về [đăng kí component](dang-ki-component.html).
+Hiện giờ thì đó là tất cả những gì bạn cần biết về đăng kí component, nhưng sau khi đọc xong trang này và hiểu thêm về component, bạn nên quay lại và đọc bản hướng dẫn đầy đủ về [đăng kí component](components-registration.html).
 
 ## Truyền dữ liệu xuống component con bằng prop
 
